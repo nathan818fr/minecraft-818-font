@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- https://github.com/nathan818fr/minecraft-818-hd-font -->
+<svg
+  version="1.1"
+  id="ASCII"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px"
+  y="0px"
+  viewBox="0 0 512 512"
+  style="enable-background:new 0 0 512 512;"
+  xml:space="preserve"
+>
+<style type="text/css">
+.st0 {
+  fill: #ffffff;
+}
+  </style>
+<path
+    id="A"
+    class="st0"
+    d="M47,128H37l-5,5v23h4v-16h1h10h1v16h4v-23L47,128z M48,136h-1H37h-1v-3l1-1h10l1,1V136z"
+  />
+<path
+    id="B"
+    class="st0"
+    d="M84,135v-2l-5-5H64v28h15l5-5v-10l-2-2v-2L84,135z M68,133v-1h9l1,1v2l-1,1h-9v-1V133z M80,149l-3,3h-9
+	v-1v-10v-1h9l3,3V149z"
+  />
+<path
+    id="D"
+    class="st0"
+    d="M143,128h-15v28h15l5-5v-18L143,128z M144,149l-3,3h-9v-20h9l3,3V149z"
+  />
+<polygon
+    id="E"
+    class="st0"
+    points="160,128 160,156 180,156 180,152 164,152 164,140 172,140 172,136 164,136 164,132 180,132 
+	180,128 "
+  />
+<polygon
+    id="F"
+    class="st0"
+    points="192,128 192,156 196,156 196,140 204,140 204,136 196,136 196,132 212,132 212,128 "
+  />
+<polygon
+    id="G"
+    class="st0"
+    points="229,156 224,151 224,133 229,128 244,128 244,132 231,132 228,135 228,149 231,152 237,152 
+	240,149 240,140 236,140 236,136 244,136 244,151 239,156 "
+  />
+<polygon
+    id="H"
+    class="st0"
+    points="256,156 256,128 260,128 260,136 272,136 272,128 276,128 276,156 272,156 272,140 260,140 
+	260,156 "
+  />
+<polygon
+    id="I"
+    class="st0"
+    points="288,156 288,152 292,152 292,132 288,132 288,128 300,128 300,132 296,132 296,152 300,152 
+	300,156 "
+  />
+<polygon
+    id="J"
+    class="st0"
+    points="340,128 340,151 335,156 325,156 320,151 320,148 323,148 327,152 333,152 336,149 336,128 "
+  />
+<polygon
+    id="C"
+    class="st0"
+    points="111,128 101,128 96,133 96,151 101,156 111,156 116,151 116,149 116,148 115,148 113,148 
+	109,152 103,152 100,149 100,135 103,132 109,132 113,136 115,136 116,136 116,135 116,133 "
+  />
+<polygon
+    id="K"
+    class="st0"
+    points="352,156 352,128 356,128 356,136 361,136 369,128 372,128 372,131 366,137 366,139 372,145 
+	372,156 368,156 368,147 361,140 356,140 356,156 "
+  />
+<polygon
+    id="L"
+    class="st0"
+    points="384,128 384,156 404,156 404,152 388,152 388,128 "
+  />
+<polygon
+    id="M"
+    class="st0"
+    points="416,156 416,128 419,128 425,134 427,134 433,128 436,128 436,156 432,156 432,135 427,140 
+	425,140 420,135 420,156 "
+  />
+<polygon
+    id="N"
+    class="st0"
+    points="448,156 448,128 451,128 464,141 464,128 468,128 468,156 464,156 464,147 452,135 452,156 "
+  />
+<path
+    id="O"
+    class="st0"
+    d="M495,128h-10l-5,5v18l5,5h10l5-5v-18L495,128z M496,149l-3,3h-6l-3-3v-14l3-3h6l3,3V149z"
+  />
+<path
+    id="P"
+    class="st0"
+    d="M15,160H0v28h4v-16h11l5-5v-2L15,160z M14,167l-1,1H4v-4h9l1,1V167z"
+  />
+<path
+    id="Q"
+    class="st0"
+    d="M52,179v-14l-5-5H37l-5,5v18l5,5h6l2-2h2l2,2h3v-3l-2-2v-2L52,179z M48,179l-1,1h-2l-1,1v3h-5l-3-3v-14
+	l3-3h6l3,3V179z"
+  />
+<path
+    id="R"
+    class="st0"
+    d="M84,167v-2l-5-5H64v28h4v-16h9l3,3v13h4v-15l-2-2v-2L84,167z M78,167l-1,1h-9v-4h9l1,1V167z"
+  />
+<polygon
+    id="S"
+    class="st0"
+    points="96,180 99,180 103,184 109,184 112,181 112,175 109,172 101,172 96,167 96,165 101,160 116,160 
+	116,164 103,164 102,165 102,167 103,168 111,168 116,173 116,183 111,188 101,188 96,183 "
+  />
+<polygon
+    id="T"
+    class="st0"
+    points="128,160 148,160 148,164 140,164 140,188 136,188 136,164 128,164 "
+  />
+<polygon
+    id="U"
+    class="st0"
+    points="160,160 160,183 165,188 175,188 180,183 180,160 176,160 176,181 173,184 167,184 164,181 
+	164,160 "
+  />
+<polygon
+    id="W"
+    class="st0"
+    points="224,160 224,188 227,188 233,182 235,182 241,188 244,188 244,160 240,160 240,181 235,176 
+	233,176 228,181 228,160 "
+  />
+<polygon
+    id="X"
+    class="st0"
+    points="256,188 256,177 262,171 262,169 256,163 256,160 259,160 265,166 267,166 273,160 276,160 
+	276,163 270,169 270,171 276,177 276,188 272,188 272,179 267,174 265,174 260,179 260,188 "
+  />
+<polygon
+    id="Y"
+    class="st0"
+    points="288,160 288,163 296,171 296,188 300,188 300,171 308,163 308,160 305,160 299,166 297,166 
+	291,160 "
+  />
+<polygon
+    id="Z"
+    class="st0"
+    points="320,160 320,164 337,164 320,181 320,188 340,188 340,184 323,184 340,167 340,160 "
+  />
+<polygon
+    id="V"
+    class="st0"
+    points="201,188 196,183 192,175 192,160 196,160 196,173 200,181 202,184 204,181 208,173 208,160 
+	212,160 212,175 208,183 203,188 "
+  />
+<polygon
+    id="_x5B_"
+    class="st0"
+    points="352,160 352,188 364,188 364,184 356,184 356,164 364,164 364,160 "
+  />
+<polygon
+    id="_x5C_"
+    class="st0"
+    points="384,163 401,188 404,188 404,185 387,160 384,160 "
+  />
+<polygon
+    id="_x5D_"
+    class="st0"
+    points="416,160 416,164 424,164 424,184 416,184 416,188 428,188 428,160 "
+  />
+<polygon
+    id="_x5E_"
+    class="st0"
+    points="451,172 457,166 459,166 465,172 468,172 468,169 459,160 457,160 448,169 448,172 "
+  />
+<rect id="_x5F_" x="480" y="188" class="st0" width="20" height="4" />
+<polygon
+    id="_x60_"
+    class="st0"
+    points="0,192 0,199 5,204 8,204 8,201 4,197 4,192 "
+  />
+<path
+    id="a"
+    class="st0"
+    d="M47,200H36v4h9l3,3v1H37l-5,5v2l5,5h15v-15L47,200z M48,216h-9l-1-1v-2l1-1h9V216z"
+  />
+<path
+    id="b"
+    class="st0"
+    d="M79,200h-8l-3,3v-11h-4v28h15l5-5v-10L79,200z M80,213l-3,3h-9v-7l5-5h4l3,3V213z"
+  />
+<polygon
+    id="c"
+    class="st0"
+    points="96,205 101,200 111,200 116,205 116,208 113,208 109,204 103,204 100,207 100,213 103,216 
+	109,216 113,212 116,212 116,215 111,220 101,220 96,215 "
+  />
+<path
+    id="d"
+    class="st0"
+    d="M144,192v11l-3-3h-8l-5,5v10l5,5h15v-28H144z M144,216h-9l-3-3v-6l3-3h4l5,5V216z"
+  />
+<path
+    id="e"
+    class="st0"
+    d="M180,212v-7l-5-5h-10l-5,5v10l5,5h15v-4h-13l-3-3v-1H180z M164,207l3-3h6l3,3v1h-12V207z"
+  />
+<polygon
+    id="f"
+    class="st0"
+    points="192,200 196,200 196,197 201,192 208,192 208,196 203,196 200,199 200,200 208,200 208,204 
+	200,204 200,220 196,220 196,204 192,204 "
+  />
+<path
+    id="g"
+    class="st0"
+    d="M229,200l-5,5v6l5,5h11v1l-3,3h-13v4h15l5-5v-19H229z M240,212h-9l-3-3v-2l3-3h9V212z"
+  />
+<polygon
+    id="h"
+    class="st0"
+    points="256,220 260,220 260,209 265,204 269,204 272,207 272,220 276,220 276,205 271,200 263,200 
+	260,203 260,192 256,192 "
+  />
+<rect id="i_x5F_2" x="288" y="200" class="st0" width="4" height="20" />
+<rect id="i_x5F_1" x="288" y="192" class="st0" width="4" height="4" />
+<rect id="j_x5F_2" x="336" y="192" class="st0" width="4" height="4" />
+<polygon
+    id="j_x5F_1"
+    class="st0"
+    points="336,217 333,220 327,220 324,217 324,212 320,212 320,219 325,224 335,224 340,219 
+	340,200 336,200 "
+  />
+<polygon
+    id="k"
+    class="st0"
+    points="352,192 352,220 356,220 356,212 357,212 365,220 368,220 368,217 362,211 362,209 368,203 
+	368,200 365,200 357,208 356,208 356,192 "
+  />
+<polygon
+    id="l"
+    class="st0"
+    points="384,192 384,215 389,220 392,220 392,217 388,213 388,192 "
+  />
+<polygon
+    id="m"
+    class="st0"
+    points="416,220 416,200 423,200 425,202 427,202 429,200 431,200 436,205 436,220 432,220 432,207 
+	431,206 429,206 428,207 428,212 424,212 424,207 421,204 420,205 420,220 "
+  />
+<path
+    id="o"
+    class="st0"
+    d="M495,200h-10l-5,5v10l5,5h10l5-5v-10L495,200z M496,213l-3,3h-6l-3-3v-6l3-3h6l3,3V213z"
+  />
+<path
+    id="p"
+    class="st0"
+    d="M15,232H7l-3,3v-1v-2H0v24h4v-8h11l5-5v-6L15,232z M16,241l-3,3H4v-5l3-3h6l3,3V241z"
+  />
+<path
+    id="q"
+    class="st0"
+    d="M48,232v3l-1-1l-2-2h-8l-5,5v6l5,5h11v8h4v-24H48z M48,244H37l-1-1v-6l1-1h8l3,3V244z"
+  />
+<polygon
+    id="r"
+    class="st0"
+    points="64,252 64,232 68,232 68,234 68,235 71,232 79,232 84,237 84,240 81,240 77,236 73,236 68,241 
+	68,252 "
+  />
+<polygon
+    id="s"
+    class="st0"
+    points="96,237 101,232 116,232 116,236 103,236 102,237 102,239 103,240 111,240 116,245 116,247 
+	111,252 96,252 96,248 109,248 110,247 110,245 109,244 101,244 96,239 "
+  />
+<polygon
+    id="t"
+    class="st0"
+    points="132,224 132,232 128,232 128,236 132,236 132,247 137,252 140,252 140,249 136,245 136,236 
+	140,236 140,232 136,232 136,224 "
+  />
+<polygon
+    id="u"
+    class="st0"
+    points="160,232 160,247 165,252 180,252 180,232 176,232 176,248 167,248 164,245 164,232 "
+  />
+<polygon
+    id="v"
+    class="st0"
+    points="192,232 192,243 201,252 203,252 212,243 212,232 208,232 208,241 203,246 201,246 196,241 
+	196,232 "
+  />
+<polygon
+    id="w"
+    class="st0"
+    points="224,232 224,247 229,252 244,252 244,232 240,232 240,248 236,248 236,240 232,240 232,248 
+	231,248 228,245 228,232 "
+  />
+<polygon
+    id="x"
+    class="st0"
+    points="256,232 256,235 262,241 262,243 256,249 256,252 259,252 265,246 267,246 273,252 276,252 
+	276,249 270,243 270,241 276,235 276,232 273,232 267,238 265,238 259,232 "
+  />
+<polygon
+    id="y"
+    class="st0"
+    points="288,232 288,243 293,248 304,248 304,249 301,252 288,252 288,256 303,256 308,251 308,232 
+	304,232 304,244 295,244 292,241 292,232 "
+  />
+<polygon
+    id="z"
+    class="st0"
+    points="320,232 320,236 333,236 320,249 320,252 340,252 340,248 327,248 340,235 340,232 "
+  />
+<rect id="_x7C__x5F_2" x="384" y="224" class="st0" width="4" height="12" />
+<rect id="_x7C__x5F_1" x="384" y="240" class="st0" width="4" height="12" />
+<polygon
+    id="_x7B_"
+    class="st0"
+    points="368,224 361,224 356,229 356,233 352,237 352,239 356,243 356,247 361,252 368,252 368,248 
+	363,248 360,245 360,241 358,239 358,237 360,235 360,231 363,228 368,228 "
+  />
+<polygon
+    id="_x7D_"
+    class="st0"
+    points="416,252 423,252 428,247 428,243 432,239 432,237 428,233 428,229 423,224 416,224 416,228 
+	421,228 424,231 424,235 426,237 426,239 424,241 424,245 421,248 416,248 "
+  />
+<polygon
+    id="_x7E_"
+    class="st0"
+    points="448,229 453,224 459,224 463,228 465,228 469,224 472,224 472,227 467,232 461,232 457,228 
+	455,228 451,232 448,232 "
+  />
+<path
+    id="sb"
+    class="st0"
+    d="M491,232h-2l-9,9v11h20v-11L491,232z M496,248h-12v-5l5-5h2l5,5V248z"
+  />
+<path
+    id="_x40_"
+    class="st0"
+    d="M13,136h-2l-3,3v6l3,3h13v-15l-5-5H5l-5,5v18l5,5h15v-4H7l-3-3v-14l3-3h10l3,3v9h-4v-5L13,136z
+	 M13,143l-1,1l-1-1v-2l1-1l1,1V143z"
+  />
+<path
+    id="_x30_"
+    class="st0"
+    d="M15,96H5l-5,5v18l5,5h10l5-5v-18L15,96z M4,113v-10l3-3h7v3l-9,9L4,113z M16,117l-3,3H6v-3l10-10
+	V117z"
+  />
+<polygon
+    id="_x32_"
+    class="st0"
+    points="64,101 69,96 79,96 84,101 84,107 68,118 68,119 68,120 80,120 80,116 84,116 84,124 
+	64,124 64,116 80,105 80,103 77,100 71,100 67,104 64,104 "
+  />
+<polygon
+    id="_x33_"
+    class="st0"
+    points="96,101 101,96 111,96 116,101 116,107 114,109 114,111 116,113 116,119 111,124 101,124 
+	96,119 96,116 99,116 103,120 109,120 112,117 112,115 109,112 104,112 104,108 109,108 112,105 112,103 109,100 103,100 99,104 
+	96,104 "
+  />
+<path
+    id="_x34_"
+    class="st0"
+    d="M141,96l-13,13v7h16v8h4V96H141z M144,112h-13l13-13V112z"
+  />
+<polygon
+    id="_x35_"
+    class="st0"
+    points="160,96 160,108 173,108 176,111 176,117 173,120 167,120 163,116 160,116 160,119 165,124 
+	175,124 180,119 180,109 175,104 164,104 164,100 180,100 180,96 "
+  />
+<polygon
+    id="_x37_"
+    class="st0"
+    points="224,104 224,96 244,96 244,107 236,115 236,124 232,124 232,113 240,105 240,100 228,100 
+	228,104 "
+  />
+<path
+    id="_x38_"
+    class="st0"
+    d="M276,107v-6l-5-5h-10l-5,5v6l2,2v2l-2,2v6l5,5h10l5-5v-6l-2-2v-2L276,107z M272,117l-3,3h-6l-3-3v-2
+	l3-3h6l3,3V117z M272,105l-3,3h-6l-3-3v-2l3-3h6l3,3V105z"
+  />
+<path
+    id="_x39_"
+    class="st0"
+    d="M303,96h-10l-5,5v6l5,5h9v3l-3,3l-2,2h-2h-3v4h7l9-9v-14L303,96z M304,108h-9l-3-3v-2l3-3h6l3,3V108
+	z"
+  />
+<polygon
+    id="_x3C_"
+    class="st0"
+    points="397,96 384,109 384,111 397,124 400,124 400,121 390,111 390,109 400,99 400,96 "
+  />
+<rect id="_x3D__x5F_2" x="416" y="104" class="st0" width="20" height="4" />
+<rect id="_x3D__x5F_1" x="416" y="116" class="st0" width="20" height="4" />
+<polygon
+    id="_x3E_"
+    class="st0"
+    points="451,124 464,111 464,109 451,96 448,96 448,99 458,109 458,111 448,121 448,124 "
+  />
+<polygon
+    id="_x3F__x5F_2"
+    class="st0"
+    points="495,96 485,96 480,101 480,104 483,104 487,100 493,100 496,103 496,105 488,113 
+	488,116 491,116 500,107 500,101 "
+  />
+<rect id="_x3F__x5F_1" x="488" y="120" class="st0" width="4" height="4" />
+<polygon
+    id="_x2F_"
+    class="st0"
+    points="500,67 483,92 480,92 480,89 497,64 500,64 "
+  />
+<rect x="416" y="76" class="st0" width="20" height="4" />
+<polygon
+    id="_x2B_"
+    class="st0"
+    points="360,68 360,76 352,76 352,80 360,80 360,88 364,88 364,80 372,80 372,76 364,76 364,68 "
+  />
+<polygon
+    id="_x2A_"
+    class="st0"
+    points="320,72 320,75 322,77 322,79 320,81 320,84 323,84 327,80 329,80 333,84 336,84 336,81 
+	334,79 334,77 336,75 336,72 333,72 329,76 327,76 323,72 "
+  />
+<polygon
+    id="_x29_"
+    class="st0"
+    points="288,64 288,68 293,68 298,71 300,75 300,81 298,85 293,88 288,88 288,92 295,92 301,88 
+	304,83 304,73 301,68 294,64 "
+  />
+<polygon
+    id="_x28_"
+    class="st0"
+    points="272,64 272,68 267,68 262,71 260,75 260,81 262,85 267,88 272,88 272,92 265,92 259,88 
+	256,83 256,73 259,68 266,64 "
+  />
+<polygon
+    id="_x27_"
+    class="st0"
+    points="228,64 228,69 224,73 224,76 227,76 232,71 232,64 "
+  />
+<path
+    id="_x26_"
+    class="st0"
+    d="M212,78h-1l-4,4h-2l-3-3v-2l2-2v-4l-3-3h-6l-3,3v4l2,2v2l-2,2v8l3,3h8l2-2h2l2,2h3v-1l-4-4l4-4V78z
+	 M196,72l1-1h2l1,1v3l-1,1h-2l-1-1V72z M202,87l-2,2h-1h-1l-2-2v-4l1-1h2l3,3V87z"
+  />
+<polygon
+    id="_x25__x5F_3"
+    class="st0"
+    points="177,64 160,89 160,92 163,92 180,67 180,64 "
+  />
+<rect id="_x25__x5F_2" x="160" y="66" class="st0" width="4" height="5" />
+<rect id="_x25__x5F_1" x="176" y="85" class="st0" width="4" height="5" />
+<path
+    id="_x23_"
+    class="st0"
+    d="M116,76v-4h-4v-8h-4v8h-4v-8h-4v8h-4v4h4v4h-4v4h4v8h4v-8h4v8h4v-8h4v-4h-4v-4H116z M108,80h-4v-4h4
+	V80z"
+  />
+<polygon
+    id="_x24_"
+    class="st0"
+    points="136,64 140,64 140,68 148,68 148,72 135,72 134,73 134,75 135,76 143,76 148,81 148,83 
+	143,88 140,88 140,92 136,92 136,88 128,88 128,84 141,84 142,83 142,81 141,80 133,80 128,75 128,73 133,68 136,68 "
+  />
+<polygon
+    id="_x22__x5F_2"
+    class="st0"
+    points="72,64 68,64 68,69 64,73 64,76 67,76 72,71 "
+  />
+<polygon
+    id="_x22__x5F_1"
+    class="st0"
+    points="76,64 76,69 72,73 72,76 75,76 80,71 80,64 "
+  />
+<rect id="_x21__x5F_2" x="32" y="64" class="st0" width="4" height="20" />
+<rect id="_x21__x5F_1" x="32" y="88" class="st0" width="4" height="4" />
+<rect class="st0" width="8" height="4" />
+<path
+    class="st0"
+    d="M15,8H5l-5,5v15h4v-8h12v8h4V13L15,8z M16,16H4v-3l1-1h10l1,1V16z"
+  />
+<path
+    class="st0"
+    d="M37,8l-5,5v15h4v-8h12v8h4V13l-5-5H37z M48,16H36v-3l1-1h10l1,1V16z"
+  />
+<rect x="44" class="st0" width="8" height="4" />
+<rect x="96" class="st0" width="8" height="4" />
+<polygon
+    class="st0"
+    points="116,12 116,8 96,8 96,28 116,28 116,24 100,24 100,20 108,20 108,16 100,16 100,12 "
+  />
+<polygon
+    class="st0"
+    points="128,28 148,28 148,24 132,24 132,20 140,20 140,16 132,16 132,12 148,12 148,8 128,8 "
+  />
+<polygon
+    class="st0"
+    points="143,0 133,0 128,5 128,7 132,7 135,4 141,4 144,7 148,7 148,5 "
+  />
+<polygon
+    class="st0"
+    points="180,12 180,8 160,8 160,28 180,28 180,24 164,24 164,20 172,20 172,16 164,16 164,12 "
+  />
+<rect x="164" class="st0" width="4" height="4" />
+<rect x="172" class="st0" width="4" height="4" />
+<rect x="196" class="st0" width="8" height="4" />
+<polygon
+    class="st0"
+    points="192,12 196,12 196,24 192,24 192,28 204,28 204,24 200,24 200,12 204,12 204,8 192,8 "
+  />
+<path
+    class="st0"
+    d="M69,8l-5,5v15h4v-8h12v8h4V13l-5-5H69z M80,16H68v-3l1-1h10l1,1V16z"
+  />
+<polygon
+    class="st0"
+    points="79,0 69,0 64,5 64,7 68,7 71,4 77,4 80,7 84,7 84,5 "
+  />
+<path
+    class="st0"
+    d="M229,4l-5,5v14l5,5h10l5-5V9l-5-5H229z M240,21l-3,3h-6l-3-3V11l3-3h6l3,3V21z"
+  />
+<rect x="236" class="st0" width="8" height="3" />
+<polygon
+    class="st0"
+    points="271,0 261,0 256,5 256,7 260,7 263,4 269,4 272,7 276,7 276,5 "
+  />
+<path
+    class="st0"
+    d="M261,8l-5,5v10l5,5h10l5-5V13l-5-5H261z M272,21l-3,3h-6l-3-3v-6l3-3h6l3,3V21z"
+  />
+<path
+    class="st0"
+    d="M293,8l-5,5v10l5,5h10l5-5V13l-5-5H293z M304,21l-3,3h-6l-3-3v-6l3-3h6l3,3V21z"
+  />
+<rect x="288" class="st0" width="20" height="4" />
+<polygon
+    class="st0"
+    points="352,32 352,0 369,0 372,3 372,7 370,9 370,11 372,13 372,23 367,28 360,28 360,24 365,24 368,21 
+	368,13 367,12 360,12 360,8 367,8 368,7 368,5 367,4 356,4 356,32 "
+  />
+<path
+    class="st0"
+    d="M388,8v4h9l3,3v1h-11l-5,5v2l5,5h15V13l-5-5H388z M400,24h-9l-1-1v-2l1-1h9V24z"
+  />
+<rect x="384" class="st0" width="20" height="4" />
+<rect x="416" class="st0" width="20" height="4" />
+<path
+    class="st0"
+    d="M421,8l-5,5v10l5,5h10l5-5V13l-5-5H421z M432,21l-3,3h-6l-3-3v-6l3-3h6l3,3V21z"
+  />
+<polygon
+    class="st0"
+    points="464,1 461,4 455,4 452,1 448,1 448,3 453,8 463,8 468,3 468,1 "
+  />
+<path
+    class="st0"
+    d="M448,17v2l5,5h11v1l-3,3h-13v4h15l5-5V12h-15L448,17z M454,17l1-1h9v4h-9l-1-1V17z"
+  />
+<polygon
+    class="st0"
+    points="492,12 492,8 480,8 480,12 484,12 484,24 480,24 480,28 492,28 492,24 488,24 488,12 "
+  />
+<rect x="484" class="st0" width="4" height="4" />
+<polygon
+    class="st0"
+    points="0,40 0,44 4,44 4,56 0,56 0,60 12,60 12,56 8,56 8,40 "
+  />
+<path
+    class="st0"
+    d="M52,40v-4H37l-5,5v14l5,5h15v-4h-8v-8h4v-4h-4v-4H52z M40,57l-4-4V43l4-4V57z"
+  />
+<path
+    class="st0"
+    d="M88,52v-7l-5-5h-6l-5,5v10l5,5h11v-4h-9l-3-3v-1H88z M76,47l3-3h2l3,3v1h-8V47z"
+  />
+<polygon
+    class="st0"
+    points="68,47 72,43 72,40 69,40 64,45 64,55 69,60 72,60 72,57 68,53 "
+  />
+<polygon
+    class="st0"
+    points="103,36 116,36 116,32 101,32 96,37 96,39 101,44 109,44 112,47 112,49 109,52 103,52 99,48 96,48 
+	96,51 101,56 111,56 116,51 116,45 111,40 103,40 102,39 102,37 "
+  />
+<polygon
+    class="st0"
+    points="109,60 104,60 104,64 111,64 116,59 116,56 113,56 "
+  />
+<polygon
+    class="st0"
+    points="141,60 136,60 136,64 143,64 148,59 148,56 145,56 "
+  />
+<polygon
+    class="st0"
+    points="135,40 148,40 148,36 133,36 128,41 128,43 133,48 141,48 142,49 142,51 141,52 128,52 128,56 143,56 
+	148,51 148,49 143,44 135,44 134,43 134,41 "
+  />
+<polygon
+    class="st0"
+    points="176,44 176,53 171,48 169,48 164,53 164,44 160,44 160,60 163,60 169,54 171,54 177,60 180,60 180,44 
+	"
+  />
+<polygon
+    class="st0"
+    points="170,37 173,40 176,40 176,37 171,32 169,32 164,37 164,40 167,40 "
+  />
+<polygon
+    class="st0"
+    points="202,37 205,40 208,40 208,37 203,32 201,32 196,37 196,40 199,40 "
+  />
+<polygon
+    class="st0"
+    points="208,44 208,56 204,56 204,48 200,48 200,56 199,56 196,53 196,44 192,44 192,55 197,60 212,60 212,44 
+	"
+  />
+<polygon
+    class="st0"
+    points="240,33 237,36 231,36 228,33 224,33 224,35 229,40 239,40 244,35 244,33 "
+  />
+<polygon
+    class="st0"
+    points="224,48 235,48 227,56 224,56 224,60 244,60 244,56 233,56 241,48 244,48 244,44 224,44 "
+  />
+<polygon
+    class="st0"
+    points="271,32 261,32 256,37 256,39 260,39 263,36 269,36 272,39 276,39 276,37 "
+  />
+<path
+    class="st0"
+    d="M261,40l-5,5v10l5,5h15v-4h-13l-3-3v-1h16v-7l-5-5H261z M272,48h-12v-1l3-3h6l3,3V48z"
+  />
+<path
+    class="st0"
+    d="M261,264l-5,5v10l5,5h15v-4h-13l-3-3v-1h16v-7l-5-5H261z M272,272h-12v-1l3-3h6l3,3V272z"
+  />
+<polygon
+    class="st0"
+    points="271,256 261,256 256,261 256,263 260,263 263,260 269,260 272,263 276,263 276,261 "
+  />
+<path
+    class="st0"
+    d="M143,264h-11v4h9l3,3v1h-11l-5,5v2l5,5h15v-15L143,264z M144,280h-9l-1-1v-2l1-1h9V280z"
+  />
+<rect x="132" y="256" class="st0" width="4" height="4" />
+<rect x="140" y="256" class="st0" width="4" height="4" />
+<path
+    class="st0"
+    d="M308,276v-7l-5-5h-10l-5,5v10l5,5h15v-4h-13l-3-3v-1H308z M292,271l3-3h6l3,3v1h-12V271z"
+  />
+<rect x="292" y="256" class="st0" width="4" height="4" />
+<rect x="300" y="256" class="st0" width="4" height="4" />
+<path
+    class="st0"
+    d="M207,264h-11v4h9l3,3v1h-11l-5,5v2l5,5h15v-15L207,264z M208,280h-9l-1-1v-2l1-1h9V280z"
+  />
+<rect x="200" y="256" class="st0" width="4" height="4" />
+<path
+    class="st0"
+    d="M175,264h-11v4h9l3,3v1h-11l-5,5v2l5,5h15v-15L175,264z M176,280h-9l-1-1v-2l1-1h9V280z"
+  />
+<rect x="160" y="256" class="st0" width="8" height="4" />
+<path
+    class="st0"
+    d="M340,276v-7l-5-5h-10l-5,5v10l5,5h15v-4h-13l-3-3v-1H340z M324,271l3-3h6l3,3v1h-12V271z"
+  />
+<rect x="320" y="256" class="st0" width="8" height="4" />
+<path
+    class="st0"
+    d="M69,264l-5,5v10l5,5h15v-4H71l-3-3v-1h16v-7l-5-5H69z M80,272H68v-1l3-3h6l3,3V272z"
+  />
+<rect x="76" y="256" class="st0" width="8" height="4" />
+<rect x="488" y="256" class="st0" width="4" height="4" />
+<path
+    class="st0"
+    d="M495,264h-10l-5,5v15h4v-8h12v8h4v-15L495,264z M496,272h-12v-3l1-1h10l1,1V272z"
+  />
+<rect x="160" y="288" class="st0" width="8" height="4" />
+<path
+    class="st0"
+    d="M175,296h-10l-5,5v10l5,5h10l5-5v-10L175,296z M176,309l-3,3h-6l-3-3v-6l3-3h6l3,3V309z"
+  />
+<rect x="132" y="288" class="st0" width="4" height="4" />
+<rect x="140" y="288" class="st0" width="4" height="4" />
+<path
+    class="st0"
+    d="M143,296h-10l-5,5v10l5,5h10l5-5v-10L143,296z M144,309l-3,3h-6l-3-3v-6l3-3h6l3,3V309z"
+  />
+<rect x="36" y="256" class="st0" width="4" height="4" />
+<rect x="44" y="256" class="st0" width="4" height="4" />
+<polygon
+    class="st0"
+    points="48,264 48,280 39,280 36,277 36,264 32,264 32,279 37,284 52,284 52,264 "
+  />
+<rect x="352" y="256" class="st0" width="4" height="4" />
+<rect x="360" y="256" class="st0" width="4" height="4" />
+<rect x="356" y="264" class="st0" width="4" height="20" />
+<rect x="416" y="256" class="st0" width="8" height="4" />
+<rect x="420" y="264" class="st0" width="4" height="20" />
+<rect x="392" y="264" class="st0" width="4" height="20" />
+<polygon
+    class="st0"
+    points="399,256 389,256 384,261 384,263 388,263 391,260 397,260 400,263 404,263 404,261 "
+  />
+<path
+    class="st0"
+    d="M100,264v4h9l3,3v1h-11l-5,5v2l5,5h15v-15l-5-5H100z M112,280h-9l-1-1v-2l1-1h9V280z"
+  />
+<polygon
+    class="st0"
+    points="111,256 101,256 96,261 96,263 100,263 103,260 109,260 112,263 116,263 116,261 "
+  />
+<polygon
+    class="st0"
+    points="208,312 199,312 196,309 196,300 192,300 192,311 197,316 212,316 212,300 208,300 "
+  />
+<polygon
+    class="st0"
+    points="207,288 197,288 192,293 192,295 196,295 199,292 205,292 208,295 212,295 212,293 "
+  />
+<path
+    class="st0"
+    d="M101,296l-5,5v10l5,5h10l5-5v-10l-5-5H101z M112,309l-3,3h-6l-3-3v-6l3-3h6l3,3V309z"
+  />
+<polygon
+    class="st0"
+    points="111,288 101,288 96,293 96,295 100,295 103,292 109,292 112,295 116,295 116,293 "
+  />
+<path
+    class="st0"
+    d="M431,288h-10l-5,5v18l5,5h10l5-5v-18L431,288z M420,305v-10l3-3h7v3l-9,9L420,305z M432,309l-3,3h-7v-3l10-10
+	V309z"
+  />
+<rect x="320" y="288" class="st0" width="4" height="4" />
+<rect x="336" y="288" class="st0" width="4" height="4" />
+<polygon
+    class="st0"
+    points="336,312 327,312 324,309 324,296 320,296 320,311 325,316 340,316 340,296 336,296 "
+  />
+<rect x="332" class="st0" width="8" height="4" />
+<polygon
+    class="st0"
+    points="336,24 327,24 324,21 324,8 320,8 320,23 325,28 340,28 340,8 336,8 "
+  />
+<rect x="260" y="288" class="st0" width="4" height="4" />
+<rect x="268" y="288" class="st0" width="4" height="4" />
+<polygon
+    class="st0"
+    points="272,296 272,308 263,308 260,305 260,296 256,296 256,307 261,312 272,312 272,313 269,316 256,316 
+	256,320 271,320 276,315 276,296 "
+  />
+<polygon
+    class="st0"
+    points="128,328 128,348 132,348 132,332 141,332 144,335 144,348 148,348 148,333 143,328 "
+  />
+<rect x="128" y="320" class="st0" width="20" height="4" />
+<rect x="416" y="332" class="st0" width="4" height="16" />
+<rect x="416" y="324" class="st0" width="4" height="4" />
+<rect x="12" y="288" class="st0" width="8" height="4" />
+<polygon
+    class="st0"
+    points="0,316 20,316 20,312 4,312 4,308 12,308 12,304 4,304 4,300 20,300 20,296 0,296 "
+  />
+<polygon
+    class="st0"
+    points="7,260 13,260 17,264 20,264 20,261 15,256 5,256 0,261 0,275 5,280 15,280 20,275 20,272 17,272 
+	13,276 7,276 4,273 4,263 "
+  />
+<polygon
+    class="st0"
+    points="13,284 8,284 8,288 15.3,288 20,283 20,280 17,280 "
+  />
+<polygon
+    class="st0"
+    points="231,264 237,264 241,268 244,268 244,265 239,260 229,260 224,265 224,275 229,280 239,280 244,275 
+	244,272 241,272 237,276 231,276 228,273 228,267 "
+  />
+<polygon
+    class="st0"
+    points="237,284 232,284 232,288 239.3,288 244,283 244,280 241,280 "
+  />
+<polygon
+    class="st0"
+    points="240,296 240,312 231,312 228,309 228,296 224,296 224,311 229,316 244,316 244,296 "
+  />
+<rect x="224" y="288" class="st0" width="8" height="4" />
+<polygon
+    class="st0"
+    points="304,312 295,312 292,309 292,296 288,296 288,311 293,316 308,316 308,296 304,296 "
+  />
+<polygon
+    class="st0"
+    points="304,288 301,291 295,291 292,288 288,288 288,290 293,295 303,295 308,290 308,288 "
+  />
+<rect x="448" y="256" class="st0" width="4" height="4" />
+<rect x="464" y="256" class="st0" width="4" height="4" />
+<path
+    class="st0"
+    d="M453,260l-5,5v19h4v-12h12v12h4v-19l-5-5H453z M464,268h-12v-3l1-1h10l1,1V268z"
+  />
+<path
+    class="st0"
+    d="M4,328v4h9l3,3v1H5l-5,5v2l5,5h15v-15l-5-5H4z M16,344H7l-1-1v-2l1-1h9V344z"
+  />
+<rect x="12" y="320" class="st0" width="8" height="4" />
+<rect x="32" y="328" class="st0" width="4" height="20" />
+<rect x="32" y="320" class="st0" width="8" height="4" />
+<path
+    class="st0"
+    d="M69,328l-5,5v10l5,5h10l5-5v-10l-5-5H69z M80,341l-3,3h-6l-3-3v-6l3-3h6l3,3V341z"
+  />
+<rect x="76" y="320" class="st0" width="8" height="4" />
+<polygon
+    class="st0"
+    points="112,344 103,344 100,341 100,328 96,328 96,343 101,348 116,348 116,328 112,328 "
+  />
+<rect x="108" y="320" class="st0" width="8" height="4" />
+<path
+    class="st0"
+    d="M84,292v-4H69l-5,5v23h4v-16h4v16h12v-4h-8v-12h4v-4h-4v-4H84z M72,296h-4v-3l1-1h3V296z"
+  />
+<polygon
+    class="st0"
+    points="393,288 388,293 388,300 384,300 384,304 388,304 388,312 384,312 384,316 404,316 404,312 392,312 
+	392,304 400,304 400,300 392,300 392,295 395,292 397,292 401,296 404,296 404,293 399,288 "
+  />
+<path
+    class="st0"
+    d="M367,296h-10l-5,5v10l5,5h3v4h4v-4h3l5-5v-10L367,296z M356,309v-6l3-3h6l-8,8L356,309z M368,309l-3,3h-6l9-9
+	V309z"
+  />
+<polygon
+    class="st0"
+    points="448,294 448,297 452,301 452,303 448,307 448,310 451,310 455,306 457,306 461,310 464,310 464,307 
+	460,303 460,301 464,297 464,294 461,294 457,298 455,298 451,294 "
+  />
+<polygon
+    class="st0"
+    points="488,293 493,288 495,288 500,293 500,296 496,296 496,295 495,294 493,294 492,295 492,300 496,300 
+	496,304 492,304 492,315 487,320 485,320 480,315 480,312 484,312 484,313 485,314 487,314 488,313 488,304 484,304 484,300 
+	488,300 "
+  />
+<path
+    class="st0"
+    d="M52,308v-8l-2-4h-6l-2,2l-2-2h-6v4h5l2,2v2h-6l-3,4v4l3,4h6l1-1l1,1h9v-4h-7l-1-3v-1H52z M44,302l0.8-2H48l1,2
+	v2h-5V302z M41,312h-5l-1-1v-2l1-1h5V312z"
+  />
+<rect x="160" y="320" class="st0" width="20" height="4" />
+<polygon
+    class="st0"
+    points="176,341 163,328 160,328 160,348 164,348 164,335 177,348 180,348 180,328 176,328 "
+  />
+<rect x="192" y="340" class="st0" width="20" height="4" />
+<path
+    class="st0"
+    d="M208,320h-12v4h9l3,3v1h-11h-5v3l5,5h15v-12L208,320z M208,333h-9l-1-1v-1l1-1h9V333z"
+  />
+<rect x="224" y="340" class="st0" width="20" height="4" />
+<path
+    class="st0"
+    d="M239,320h-10l-5,5v6l5,5h10l5-5v-6L239,320z M240,329l-3,3h-6l-3-3v-2l3-3h6l3,3V329z"
+  />
+<polygon
+    class="st0"
+    points="273,340 269,344 263,344 260,341 260,339 268,331 268,328 265,328 256,337 256,343 261,348 271,348 
+	276,343 276,340 "
+  />
+<rect x="264" y="320" class="st0" width="4" height="4" />
+<path
+    class="st0"
+    d="M295,329v10h2v-4h4l2,2v2h2v-3l-2-2h1l1-1v-2l-2.5-2H295z M301,333h-4v-2h4l1,1L301,333z"
+  />
+<path
+    class="st0"
+    d="M307,324h-14l-5,5v10l5,5h14l5-5v-10L307,324z M308,337l-3,3h-10l-3-3v-6l3-3h10l3,3V337z"
+  />
+<polygon
+    class="st0"
+    points="320,332 320,336 336,336 336,344 340,344 340,332 "
+  />
+<polygon
+    class="st0"
+    points="369,320 352,345 352,348 355,348 372,323 372,320 "
+  />
+<polygon
+    class="st0"
+    points="366,336 364,338 364,340 365,340 367,338 369,338 370,339 370,341 364,345 364,348 372,348 372,344.6 
+	370.4,344.6 370.4,346 366,346 372,342 372,338.1 370,336 "
+  />
+<polygon
+    class="st0"
+    points="354,325 354,326 354,332 356,332 356,322 355,322 352,325 352,326 353,326 "
+  />
+<polygon
+    class="st0"
+    points="401,320 384,345 384,348 387,348 404,323 404,320 "
+  />
+<path class="st0" d="M396,341v3h6v4h2v-12h-3L396,341z M402,342h-4l4-4V342z" />
+<polygon
+    class="st0"
+    points="386,325 386,326 386,332 388,332 388,322 387,322 384,325 384,326 385,326 "
+  />
+<polygon
+    class="st0"
+    points="454,333 460,327 460,324 457,324 448,333 448,335 457,344 460,344 460,341 454,335 "
+  />
+<polygon
+    class="st0"
+    points="468,327 468,324 465,324 456,333 456,335 465,344 468,344 468,341 462,335 462,333 "
+  />
+<polygon
+    class="st0"
+    points="491,324 488,324 488,327 494,333 494,335 488,341 488,344 491,344 500,335 500,333 "
+  />
+<polygon
+    class="st0"
+    points="492,333 483,324 480,324 480,327 486,333 486,335 480,341 480,344 483,344 492,335 "
+  />
+<rect y="354" class="st0" width="2" height="2" />
+<rect y="358" class="st0" width="2" height="2" />
+<rect y="362" class="st0" width="2" height="2" />
+<rect y="366" class="st0" width="2" height="2" />
+<rect y="370" class="st0" width="2" height="2" />
+<rect y="374" class="st0" width="2" height="2" />
+<rect y="378" class="st0" width="2" height="2" />
+<rect y="382" class="st0" width="2" height="2" />
+<rect x="4" y="352" class="st0" width="2" height="2" />
+<rect x="4" y="356" class="st0" width="2" height="2" />
+<rect x="4" y="360" class="st0" width="2" height="2" />
+<rect x="4" y="364" class="st0" width="2" height="2" />
+<rect x="4" y="368" class="st0" width="2" height="2" />
+<rect x="4" y="372" class="st0" width="2" height="2" />
+<rect x="4" y="376" class="st0" width="2" height="2" />
+<rect x="4" y="380" class="st0" width="2" height="2" />
+<rect x="8" y="354" class="st0" width="2" height="2" />
+<rect x="8" y="358" class="st0" width="2" height="2" />
+<rect x="8" y="362" class="st0" width="2" height="2" />
+<rect x="8" y="366" class="st0" width="2" height="2" />
+<rect x="8" y="370" class="st0" width="2" height="2" />
+<rect x="8" y="374" class="st0" width="2" height="2" />
+<rect x="8" y="378" class="st0" width="2" height="2" />
+<rect x="8" y="382" class="st0" width="2" height="2" />
+<rect x="12" y="352" class="st0" width="2" height="2" />
+<rect x="12" y="356" class="st0" width="2" height="2" />
+<rect x="12" y="360" class="st0" width="2" height="2" />
+<rect x="12" y="364" class="st0" width="2" height="2" />
+<rect x="12" y="368" class="st0" width="2" height="2" />
+<rect x="12" y="372" class="st0" width="2" height="2" />
+<rect x="12" y="376" class="st0" width="2" height="2" />
+<rect x="12" y="380" class="st0" width="2" height="2" />
+<rect x="16" y="354" class="st0" width="2" height="2" />
+<rect x="16" y="358" class="st0" width="2" height="2" />
+<rect x="16" y="362" class="st0" width="2" height="2" />
+<rect x="16" y="366" class="st0" width="2" height="2" />
+<rect x="16" y="370" class="st0" width="2" height="2" />
+<rect x="16" y="374" class="st0" width="2" height="2" />
+<rect x="16" y="378" class="st0" width="2" height="2" />
+<rect x="16" y="382" class="st0" width="2" height="2" />
+<rect x="20" y="352" class="st0" width="2" height="2" />
+<rect x="20" y="356" class="st0" width="2" height="2" />
+<rect x="20" y="360" class="st0" width="2" height="2" />
+<rect x="20" y="364" class="st0" width="2" height="2" />
+<rect x="20" y="368" class="st0" width="2" height="2" />
+<rect x="20" y="372" class="st0" width="2" height="2" />
+<rect x="20" y="376" class="st0" width="2" height="2" />
+<rect x="20" y="380" class="st0" width="2" height="2" />
+<rect x="24" y="354" class="st0" width="2" height="2" />
+<rect x="24" y="358" class="st0" width="2" height="2" />
+<rect x="24" y="362" class="st0" width="2" height="2" />
+<rect x="24" y="366" class="st0" width="2" height="2" />
+<rect x="24" y="370" class="st0" width="2" height="2" />
+<rect x="24" y="374" class="st0" width="2" height="2" />
+<rect x="24" y="378" class="st0" width="2" height="2" />
+<rect x="24" y="382" class="st0" width="2" height="2" />
+<rect x="28" y="352" class="st0" width="2" height="2" />
+<rect x="28" y="356" class="st0" width="2" height="2" />
+<rect x="28" y="360" class="st0" width="2" height="2" />
+<rect x="28" y="364" class="st0" width="2" height="2" />
+<rect x="28" y="368" class="st0" width="2" height="2" />
+<rect x="28" y="372" class="st0" width="2" height="2" />
+<rect x="28" y="376" class="st0" width="2" height="2" />
+<rect x="28" y="380" class="st0" width="2" height="2" />
+<rect x="32" y="352" class="st0" width="2" height="2" />
+<rect x="32" y="356" class="st0" width="2" height="2" />
+<rect x="32" y="360" class="st0" width="2" height="2" />
+<rect x="32" y="364" class="st0" width="2" height="2" />
+<rect x="32" y="368" class="st0" width="2" height="2" />
+<rect x="32" y="372" class="st0" width="2" height="2" />
+<rect x="32" y="376" class="st0" width="2" height="2" />
+<rect x="32" y="380" class="st0" width="2" height="2" />
+<rect x="34" y="354" class="st0" width="2" height="2" />
+<rect x="34" y="358" class="st0" width="2" height="2" />
+<rect x="34" y="362" class="st0" width="2" height="2" />
+<rect x="34" y="366" class="st0" width="2" height="2" />
+<rect x="34" y="370" class="st0" width="2" height="2" />
+<rect x="34" y="374" class="st0" width="2" height="2" />
+<rect x="34" y="378" class="st0" width="2" height="2" />
+<rect x="34" y="382" class="st0" width="2" height="2" />
+<rect x="36" y="352" class="st0" width="2" height="2" />
+<rect x="36" y="356" class="st0" width="2" height="2" />
+<rect x="36" y="360" class="st0" width="2" height="2" />
+<rect x="36" y="364" class="st0" width="2" height="2" />
+<rect x="36" y="368" class="st0" width="2" height="2" />
+<rect x="36" y="372" class="st0" width="2" height="2" />
+<rect x="36" y="376" class="st0" width="2" height="2" />
+<rect x="36" y="380" class="st0" width="2" height="2" />
+<rect x="38" y="354" class="st0" width="2" height="2" />
+<rect x="38" y="358" class="st0" width="2" height="2" />
+<rect x="38" y="362" class="st0" width="2" height="2" />
+<rect x="38" y="366" class="st0" width="2" height="2" />
+<rect x="38" y="370" class="st0" width="2" height="2" />
+<rect x="38" y="374" class="st0" width="2" height="2" />
+<rect x="38" y="378" class="st0" width="2" height="2" />
+<rect x="38" y="382" class="st0" width="2" height="2" />
+<rect x="40" y="352" class="st0" width="2" height="2" />
+<rect x="40" y="356" class="st0" width="2" height="2" />
+<rect x="40" y="360" class="st0" width="2" height="2" />
+<rect x="40" y="364" class="st0" width="2" height="2" />
+<rect x="40" y="368" class="st0" width="2" height="2" />
+<rect x="40" y="372" class="st0" width="2" height="2" />
+<rect x="40" y="376" class="st0" width="2" height="2" />
+<rect x="40" y="380" class="st0" width="2" height="2" />
+<rect x="42" y="354" class="st0" width="2" height="2" />
+<rect x="42" y="358" class="st0" width="2" height="2" />
+<rect x="42" y="362" class="st0" width="2" height="2" />
+<rect x="42" y="366" class="st0" width="2" height="2" />
+<rect x="42" y="370" class="st0" width="2" height="2" />
+<rect x="42" y="374" class="st0" width="2" height="2" />
+<rect x="42" y="378" class="st0" width="2" height="2" />
+<rect x="42" y="382" class="st0" width="2" height="2" />
+<rect x="44" y="352" class="st0" width="2" height="2" />
+<rect x="44" y="356" class="st0" width="2" height="2" />
+<rect x="44" y="360" class="st0" width="2" height="2" />
+<rect x="44" y="364" class="st0" width="2" height="2" />
+<rect x="44" y="368" class="st0" width="2" height="2" />
+<rect x="44" y="372" class="st0" width="2" height="2" />
+<rect x="44" y="376" class="st0" width="2" height="2" />
+<rect x="44" y="380" class="st0" width="2" height="2" />
+<rect x="46" y="354" class="st0" width="2" height="2" />
+<rect x="46" y="358" class="st0" width="2" height="2" />
+<rect x="46" y="362" class="st0" width="2" height="2" />
+<rect x="46" y="366" class="st0" width="2" height="2" />
+<rect x="46" y="370" class="st0" width="2" height="2" />
+<rect x="46" y="374" class="st0" width="2" height="2" />
+<rect x="46" y="378" class="st0" width="2" height="2" />
+<rect x="46" y="382" class="st0" width="2" height="2" />
+<rect x="48" y="352" class="st0" width="2" height="2" />
+<rect x="48" y="356" class="st0" width="2" height="2" />
+<rect x="48" y="360" class="st0" width="2" height="2" />
+<rect x="48" y="364" class="st0" width="2" height="2" />
+<rect x="48" y="368" class="st0" width="2" height="2" />
+<rect x="48" y="372" class="st0" width="2" height="2" />
+<rect x="48" y="376" class="st0" width="2" height="2" />
+<rect x="48" y="380" class="st0" width="2" height="2" />
+<rect x="50" y="354" class="st0" width="2" height="2" />
+<rect x="50" y="358" class="st0" width="2" height="2" />
+<rect x="50" y="362" class="st0" width="2" height="2" />
+<rect x="50" y="366" class="st0" width="2" height="2" />
+<rect x="50" y="370" class="st0" width="2" height="2" />
+<rect x="50" y="374" class="st0" width="2" height="2" />
+<rect x="50" y="378" class="st0" width="2" height="2" />
+<rect x="50" y="382" class="st0" width="2" height="2" />
+<rect x="52" y="352" class="st0" width="2" height="2" />
+<rect x="52" y="356" class="st0" width="2" height="2" />
+<rect x="52" y="360" class="st0" width="2" height="2" />
+<rect x="52" y="364" class="st0" width="2" height="2" />
+<rect x="52" y="368" class="st0" width="2" height="2" />
+<rect x="52" y="372" class="st0" width="2" height="2" />
+<rect x="52" y="376" class="st0" width="2" height="2" />
+<rect x="52" y="380" class="st0" width="2" height="2" />
+<rect x="54" y="354" class="st0" width="2" height="2" />
+<rect x="54" y="358" class="st0" width="2" height="2" />
+<rect x="54" y="362" class="st0" width="2" height="2" />
+<rect x="54" y="366" class="st0" width="2" height="2" />
+<rect x="54" y="370" class="st0" width="2" height="2" />
+<rect x="54" y="374" class="st0" width="2" height="2" />
+<rect x="54" y="378" class="st0" width="2" height="2" />
+<rect x="54" y="382" class="st0" width="2" height="2" />
+<rect x="56" y="352" class="st0" width="2" height="2" />
+<rect x="56" y="356" class="st0" width="2" height="2" />
+<rect x="56" y="360" class="st0" width="2" height="2" />
+<rect x="56" y="364" class="st0" width="2" height="2" />
+<rect x="56" y="368" class="st0" width="2" height="2" />
+<rect x="56" y="372" class="st0" width="2" height="2" />
+<rect x="56" y="376" class="st0" width="2" height="2" />
+<rect x="56" y="380" class="st0" width="2" height="2" />
+<rect x="58" y="354" class="st0" width="2" height="2" />
+<rect x="58" y="358" class="st0" width="2" height="2" />
+<rect x="58" y="362" class="st0" width="2" height="2" />
+<rect x="58" y="366" class="st0" width="2" height="2" />
+<rect x="58" y="370" class="st0" width="2" height="2" />
+<rect x="58" y="374" class="st0" width="2" height="2" />
+<rect x="58" y="378" class="st0" width="2" height="2" />
+<rect x="58" y="382" class="st0" width="2" height="2" />
+<rect x="60" y="352" class="st0" width="2" height="2" />
+<rect x="60" y="356" class="st0" width="2" height="2" />
+<rect x="60" y="360" class="st0" width="2" height="2" />
+<rect x="60" y="364" class="st0" width="2" height="2" />
+<rect x="60" y="368" class="st0" width="2" height="2" />
+<rect x="60" y="372" class="st0" width="2" height="2" />
+<rect x="60" y="376" class="st0" width="2" height="2" />
+<rect x="60" y="380" class="st0" width="2" height="2" />
+<rect x="62" y="354" class="st0" width="2" height="2" />
+<rect x="62" y="358" class="st0" width="2" height="2" />
+<rect x="62" y="362" class="st0" width="2" height="2" />
+<rect x="62" y="366" class="st0" width="2" height="2" />
+<rect x="62" y="370" class="st0" width="2" height="2" />
+<rect x="62" y="374" class="st0" width="2" height="2" />
+<rect x="62" y="378" class="st0" width="2" height="2" />
+<rect x="62" y="382" class="st0" width="2" height="2" />
+<path
+    class="st0"
+    d="M94,352v2h-2v-2h-2h-2h-2v2h-2v-2h-2h-2h-2v2h-2v-2h-2h-2h-2v2h-2v-2h-2h-2v2h2v2h-2v2h2v2h-2v2h2v2h-2v2h2v2
+	h-2v2h2v2h-2v2h2v2h-2v2h2v2h-2v2h2v2h2h2h2v-2h2v2h2h2h2v-2h2v2h2h2h2v-2h2v2h2h2h2v-32H94z M70,382h-2v-2h2V382z M70,378h-2v-2h2
+	V378z M70,374h-2v-2h2V374z M70,370h-2v-2h2V370z M70,366h-2v-2h2V366z M70,362h-2v-2h2V362z M70,358h-2v-2h2V358z M74,380h-2v-2h2
+	V380z M74,376h-2v-2h2V376z M74,372h-2v-2h2V372z M74,368h-2v-2h2V368z M74,364h-2v-2h2V364z M74,360h-2v-2h2V360z M74,356h-2v-2h2
+	V356z M78,382h-2v-2h2V382z M78,378h-2v-2h2V378z M78,374h-2v-2h2V374z M78,370h-2v-2h2V370z M78,366h-2v-2h2V366z M78,362h-2v-2h2
+	V362z M78,358h-2v-2h2V358z M82,380h-2v-2h2V380z M82,376h-2v-2h2V376z M82,372h-2v-2h2V372z M82,368h-2v-2h2V368z M82,364h-2v-2h2
+	V364z M82,360h-2v-2h2V360z M82,356h-2v-2h2V356z M86,382h-2v-2h2V382z M86,378h-2v-2h2V378z M86,374h-2v-2h2V374z M86,370h-2v-2h2
+	V370z M86,366h-2v-2h2V366z M86,362h-2v-2h2V362z M86,358h-2v-2h2V358z M90,380h-2v-2h2V380z M90,376h-2v-2h2V376z M90,372h-2v-2h2
+	V372z M90,368h-2v-2h2V368z M90,364h-2v-2h2V364z M90,360h-2v-2h2V360z M90,356h-2v-2h2V356z M94,382h-2v-2h2V382z M94,378h-2v-2h2
+	V378z M94,374h-2v-2h2V374z M94,370h-2v-2h2V370z M94,366h-2v-2h2V366z M94,362h-2v-2h2V362z M94,358h-2v-2h2V358z"
+  />
+<rect x="108" y="352" class="st0" width="8" height="33" />
+<polygon
+    class="st0"
+    points="128,368 128,372 140,372 140,384 148,384 148,352 140,352 140,368 "
+  />
+<polygon
+    class="st0"
+    points="180,352 180,385 172,385 172,372 160,372 160,368 172,368 172,364 160,364 160,360 172,360 172,352 "
+  />
+<rect x="212" y="352" class="st0" width="8" height="32" />
+<polygon
+    class="st0"
+    points="200,352 208,352 208,384 200,384 200,372 192,372 192,368 200,368 "
+  />
+<path
+    class="st0"
+    d="M28,459v-3h-5l-4,4h-2l-4-4H5l-5,5v10l5,5h8l4-4h2l4,4h5v-3l-6-6v-2L28,459z M16,467l-5,5H9l-5-5v-2l5-5h2l5,5
+	V467z"
+  />
+<path
+    class="st0"
+    d="M56,459v-2l-5-5H37l-5,5v23h8v-8h11l5-5v-2l-2-2v-2L56,459z M48,467l-1,1h-7v-4h7l1,1V467z M48,459l-1,1h-7v-4
+	h7l1,1V459z"
+  />
+<polygon
+    class="st0"
+    points="128,455 134,461 134,463 128,469 128,476 152,476 152,468 147,468 143,472 135,472 144,463 144,461 
+	135,452 143,452 147,456 152,456 152,448 128,448 "
+  />
+<path
+    class="st0"
+    d="M165,456l-5,5v10l5,5h10l5-5v-11h8v-4H165z M174,469l-3,3h-2l-3-3v-6l3-3h2l3,3V469z"
+  />
+<polygon
+    class="st0"
+    points="192,477 196,473 196,452 204,452 204,468 209,468 212,465 212,452 220,452 220,467 215,472 207,472 
+	199,480 192,480 "
+  />
+<polygon
+    class="st0"
+    points="224,457 229,452 237,452 241,456 243,456 247,452 252,452 252,455 247,460 244,460 244,476 236,476 
+	236,457 235,456 233,456 229,460 224,460 "
+  />
+<path
+    class="st0"
+    d="M280,448h-24v4h9l-9,9v6l9,9h6l9-9v-6l-9-9h9V448z M274,463v2l-5,5h-2l-5-5v-2l5-5h2L274,463z"
+  />
+<path
+    class="st0"
+    d="M314,453l-5-5h-14l-5,5l-2,4v10l2,4l5,5h14l5-5l2-4v-10L314,453z M310,467l-5,5h-6l-5-5v-3h16V467z M310,460
+	h-16v-3l5-5h6l5,5V460z"
+  />
+<polygon
+    class="st0"
+    points="224,368 224,372 232,372 232,384 240,384 240,372 244,372 244,384 252,384 252,368 "
+  />
+<polygon
+    class="st0"
+    points="256,360 256,364 268,364 268,368 256,368 256,372 268,372 268,384 276,384 276,360 "
+  />
+<polygon
+    class="st0"
+    points="296,360 288,360 288,364 304,364 304,352 296,352 "
+  />
+<polygon
+    class="st0"
+    points="288,372 296,372 296,384 304,384 304,368 288,368 "
+  />
+<rect x="308" y="352" class="st0" width="8" height="32" />
+<rect x="328" y="352" class="st0" width="8" height="32" />
+<rect x="340" y="352" class="st0" width="8" height="32" />
+<polygon
+    class="st0"
+    points="352,372 360,372 360,384 368,384 368,368 352,368 "
+  />
+<polygon
+    class="st0"
+    points="352,360 352,364 372,364 372,384 380,384 380,360 "
+  />
+<polygon
+    class="st0"
+    points="384,360 392,360 392,352 400,352 400,364 384,364 "
+  />
+<polygon
+    class="st0"
+    points="384,372 384,368 404,368 404,352 412,352 412,372 "
+  />
+<polygon
+    class="st0"
+    points="424,352 424,368 416,368 416,372 444,372 444,352 436,352 436,368 432,368 432,352 "
+  />
+<polygon
+    class="st0"
+    points="448,360 448,364 460,364 460,368 448,368 448,372 468,372 468,352 460,352 460,360 "
+  />
+<rect x="480" y="368" class="st0" width="20" height="4" />
+<polygon
+    class="st0"
+    points="64,476 72,476 72,456 80,456 80,460 88,460 88,452 64,452 "
+  />
+<polygon
+    class="st0"
+    points="96,452 96,456 100,456 100,476 108,476 108,456 112,456 112,476 120,476 120,456 124,456 124,452 "
+  />
+<polygon
+    class="st0"
+    points="320,472 320,476 332,476 332,467 326,461 326,459 333,452 335,452 342,459 342,461 336,467 336,476 
+	348,476 348,472 342,472 342,469 348,463 348,457 340,449 340,448 329,448 320,457 320,463 326,469 326,472 "
+  />
+<path
+    class="st0"
+    d="M376,452v-4h-11l-5,5v2l4,4l-1,1h-6l-5,5v6l5,5h14l5-5v-10l-8-8l1-1H376z M369,464l1,1v4l-3,3h-6l-3-3v-2l3-3
+	H369z"
+  />
+<polygon
+    class="st0"
+    points="480,476 480,453 485,448 499,448 504,453 504,476 496,476 496,455 493,452 491,452 488,455 488,476 "
+  />
+<polygon
+    class="st0"
+    points="468,448 457,448 448,457 448,467 457,476 468,476 468,472 465,472 460,469 456,465 456,464 468,464 
+	468,460 456,460 456,459 460,455 465,452 468,452 "
+  />
+<rect x="456" y="488" class="st0" width="16" height="16" />
+<polygon
+    class="st0"
+    points="420,480 420,484 429,484 430,485 420,495 420,500 436,500 436,496 427,496 436,487 436,484 432,480 "
+  />
+<polygon
+    class="st0"
+    points="388,500 388,480 403,480 408,485 408,500 400,500 400,485 399,484 396,484 396,500 "
+  />
+<polygon
+    class="st0"
+    points="384,480 368,480 368,503 367,504 365,504 357,496 352,496 352,499 365,512 376,512 376,484 384,484 "
+  />
+<rect x="332" y="496" class="st0" width="8" height="4" />
+<rect x="300" y="492" class="st0" width="8" height="8" />
+<path
+    class="st0"
+    d="M280,480v-4h-24v4h8v1l-4,4v6l5,5h10l5-5v-6l-4-4v-1H280z M272,491l-1,1h-2l-1-1v-6l1-1h2l1,1V491z"
+  />
+<polygon
+    class="st0"
+    points="247,484 243,488 241,488 237,484 229,484 224,489 224,492 229,492 233,488 235,488 239,492 247,492 
+	252,487 252,484 "
+  />
+<polygon
+    class="st0"
+    points="243,500 241,500 237,496 229,496 224,501 224,504 229,504 233,500 235,500 239,504 247,504 252,499 
+	252,496 247,496 "
+  />
+<rect x="200" y="480" class="st0" width="8" height="8" />
+<rect x="192" y="492" class="st0" width="24" height="4" />
+<rect x="200" y="500" class="st0" width="8" height="8" />
+<polygon
+    class="st0"
+    points="180,480 180,507 175,512 165,512 160,507 160,500 168,500 168,505 169,506 171,506 172,505 172,480 "
+  />
+<polygon
+    class="st0"
+    points="140,512 140,485 145,480 155,480 160,485 160,492 152,492 152,487 151,486 149,486 148,487 148,512 "
+  />
+<polygon
+    class="st0"
+    points="116,500 116,497 110,491 110,489 116,483 116,480 109,480 100,489 100,491 109,500 "
+  />
+<rect x="96" y="504" class="st0" width="24" height="4" />
+<polygon
+    class="st0"
+    points="84,491 84,489 75,480 68,480 68,483 74,489 74,491 68,497 68,500 75,500 "
+  />
+<rect x="64" y="504" class="st0" width="24" height="4" />
+<polygon
+    class="st0"
+    points="48,488 48,480 40,480 40,488 32,488 32,492 40,492 40,500 48,500 48,492 56,492 56,488 "
+  />
+<rect x="32" y="504" class="st0" width="24" height="4" />
+<rect y="484" class="st0" width="24" height="4" />
+<rect y="492" class="st0" width="24" height="4" />
+<rect y="500" class="st0" width="24" height="4" />
+<path
+    class="st0"
+    d="M410,456h-20l-6,6v4l6,6h20l6-6v-4L410,456z M396,467l-1,1h-2l-1-1v-6l1-1h2l1,1V467z M408,467l-1,1h-2l-1-1v-6
+	l1-1h2l1,1V467z"
+  />
+<path
+    class="st0"
+    d="M442,456h-1.6l3.6-5v-3h-7l-5.8,8H422l-6,6v4l4.6,4.6L416,477v3h7.1l5.8-8H442l6-6v-4L442,456z M424,461l1-1h2
+	l1,1v6l-1,1h-2l-1-1V461z M440,467l-1,1h-2l-1-1v-6l1-1h2l1,1V467z"
+  />
+<polygon
+    class="st0"
+    points="32,436 32,432 28,432 28,416 20,416 20,432 16,432 16,416 8,416 8,432 0,432 0,436 "
+  />
+<polygon class="st0" points="12,384 12,404 32,404 32,400 20,400 20,384 " />
+<polygon
+    class="st0"
+    points="44,384 44,400 32,400 32,404 64,404 64,400 52,400 52,384 "
+  />
+<polygon
+    class="st0"
+    points="96,404 96,400 64,400 64,404 76,404 76,416 84,416 84,404 "
+  />
+<polygon
+    class="st0"
+    points="108,385 108,416 116,416 116,404 128,404 128,400 116,400 116,385 "
+  />
+<polygon
+    class="st0"
+    points="104,416 104,436 128,436 128,432 124,432 124,416 116,416 116,432 112,432 112,416 "
+  />
+<polygon
+    class="st0"
+    points="140,416 140,436 160,436 160,432 148,432 148,428 160,428 160,424 148,424 148,416 "
+  />
+<rect x="128" y="400" class="st0" width="32" height="4" />
+<polygon
+    class="st0"
+    points="172,385 172,400 160,400 160,404 172,404 172,416 180,416 180,404 192,404 192,400 180,400 180,385 "
+  />
+<polygon
+    class="st0"
+    points="204,416 212,416 212,404 224,404 224,400 212,400 212,396 224,396 224,392 212,392 212,384 204,384 "
+  />
+<rect x="232" y="384" class="st0" width="8" height="32" />
+<polygon
+    class="st0"
+    points="252,400 252,384 244,384 244,416 252,416 252,404 256,404 256,400 "
+  />
+<polygon
+    class="st0"
+    points="272,384 264,384 264,404 288,404 288,400 272,400 "
+  />
+<polygon
+    class="st0"
+    points="284,392 284,384 276,384 276,396 288,396 288,392 "
+  />
+<polygon
+    class="st0"
+    points="296,392 296,416 304,416 304,396 320,396 320,392 "
+  />
+<polygon
+    class="st0"
+    points="308,416 316,416 316,404 320,404 320,400 308,400 "
+  />
+<polygon
+    class="st0"
+    points="328,384 328,392 320,392 320,396 336,396 336,384 "
+  />
+<rect x="320" y="400" class="st0" width="32" height="4" />
+<polygon
+    class="st0"
+    points="340,384 340,396 352,396 352,392 348,392 348,384 "
+  />
+<rect x="352" y="392" class="st0" width="32" height="4" />
+<polygon
+    class="st0"
+    points="352,404 360,404 360,416 368,416 368,400 352,400 "
+  />
+<polygon
+    class="st0"
+    points="372,416 380,416 380,404 384,404 384,400 372,400 "
+  />
+<rect x="392" y="384" class="st0" width="8" height="32" />
+<polygon
+    class="st0"
+    points="412,392 412,384 404,384 404,396 416,396 416,392 "
+  />
+<polygon
+    class="st0"
+    points="404,416 412,416 412,404 416,404 416,400 404,400 "
+  />
+<rect x="416" y="392" class="st0" width="32" height="4" />
+<rect x="416" y="400" class="st0" width="32" height="4" />
+<polygon
+    class="st0"
+    points="456,392 448,392 448,396 464,396 464,384 456,384 "
+  />
+<polygon
+    class="st0"
+    points="448,404 456,404 456,416 464,416 464,400 448,400 "
+  />
+<polygon
+    class="st0"
+    points="476,392 476,384 468,384 468,396 480,396 480,392 "
+  />
+<polygon
+    class="st0"
+    points="468,416 476,416 476,404 480,404 480,400 468,400 "
+  />
+<polygon
+    class="st0"
+    points="500,392 500,372 492,372 492,392 480,392 480,396 512,396 512,392 "
+  />
+<rect x="480" y="400" class="st0" width="32" height="4" />
+<rect x="32" y="424" class="st0" width="32" height="4" />
+<polygon
+    class="st0"
+    points="32,436 44,436 44,448 52,448 52,436 64,436 64,432 32,432 "
+  />
+<polygon
+    class="st0"
+    points="64,432 64,436 72,436 72,448 80,448 80,436 84,436 84,448 92,448 92,436 96,436 96,432 "
+  />
+<polygon
+    class="st0"
+    points="172,424 172,448 180,448 180,436 192,436 192,432 180,432 180,428 192,428 192,424 "
+  />
+<polygon
+    class="st0"
+    points="200,432 200,448 208,448 208,436 212,436 212,448 220,448 220,436 224,436 224,432 "
+  />
+<polygon
+    class="st0"
+    points="232,448 232,436 224,436 224,432 232,432 232,416 240,416 240,432 244,432 244,416 252,416 252,432 
+	256,432 256,436 252,436 252,448 244,448 244,436 240,436 240,448 "
+  />
+<polygon
+    class="st0"
+    points="256,424 256,428 268,428 268,432 256,432 256,436 268,436 268,448 276,448 276,436 288,436 288,432 
+	276,432 276,428 288,428 288,424 276,424 276,416 268,416 268,424 "
+  />
+<polygon
+    class="st0"
+    points="300,416 300,432 288,432 288,436 308,436 308,416 "
+  />
+<polygon
+    class="st0"
+    points="332,432 332,448 340,448 340,436 352,436 352,432 "
+  />
+<rect x="352" y="416" class="st0" width="32" height="32" />
+<rect x="384" y="432" class="st0" width="32" height="16" />
+<rect x="480" y="416" class="st0" width="32" height="16" />
+<rect x="416" y="416" class="st0" width="16" height="32" />
+<rect x="464" y="416" class="st0" width="16" height="32" />
+<path
+    id="_x36_"
+    class="st0"
+    d="M207,108h-9v-3l3-3l2-2h2h3v-4h-7l-9,9v14l5,5h10l5-5v-6L207,108z M208,117l-3,3h-6l-3-3v-5h9l3,3
+	V117z"
+  />
+<polygon
+    id="n"
+    class="st0"
+    points="463,200 454,200 452,202 452,200 448,200 448,220 452,220 452,207 455,204 461,204 464,207 
+	464,220 468,220 468,205 "
+  />
+<polygon
+    id="_x31_"
+    class="st0"
+    points="44,120 44,96 40,96 32,103 32,106 35,106 40,102 40,120 32,120 32,124 52,124 52,120 "
+  />
+<g id=":_1_">
+	<rect x="320" y="116" class="st0" width="4" height="8" />
+	<rect x="320" y="100" class="st0" width="4" height="8" />
+</g>
+<g id="_x3B__1_">
+	<rect x="352" y="116" class="st0" width="4" height="12" />
+	<rect x="352" y="100" class="st0" width="4" height="8" />
+</g>
+<polygon
+    id="_x2C_"
+    class="st0"
+    points="384,84 384,88 384,96 388,96 388,88 388,84 "
+  />
+<polygon
+    id="_x2E_"
+    class="st0"
+    points="448,84 448,88 448,92 452,92 452,88 452,84 "
+  />
+</svg>
