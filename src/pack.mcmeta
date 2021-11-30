@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "§b818 HD Font §f(scale: %%SCALE%% - v%%VERSION%%)\n§7Designed by nathan818§r"
+    "description": "§b818 Font §7by nathan818\n§7%%DESC%% - v%%VERSION%%§r"
   }
 }
